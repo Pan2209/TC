@@ -1,7 +1,5 @@
 'use strict';
 
-
-
 let nums = [0, 2, 4, 8];
 
 function concatenarNumerosContinuos(nums) {
@@ -14,4 +12,3 @@ function concatenarNumerosContinuos(nums) {
 }
 
 concatenarNumerosContinuos(nums);
-  

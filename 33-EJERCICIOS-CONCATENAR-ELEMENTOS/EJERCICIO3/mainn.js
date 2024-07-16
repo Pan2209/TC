@@ -12,3 +12,4 @@ function concatenarNumerosContinuos(nums) {
 }
 
 concatenarNumerosContinuos(nums);
+  
